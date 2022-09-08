@@ -1,0 +1,30 @@
+.descricao-title {
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+.descricao-contato {
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.descricao-concluir {
+    background-color: #006400;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.descricao-limpar {
+    width: 100px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #006400;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.emer-item-title {
+    font-weight: bold;
+}
+
+.emer-item {
+    cursor: pointer;
+}
+
+.emer-item:hover {
+    background-color: #F5F5F5;
+}

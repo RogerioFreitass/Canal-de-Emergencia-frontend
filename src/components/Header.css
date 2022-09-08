@@ -1,0 +1,11 @@
+.header-title {
+    color: #fff200;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+}
+
+.header-bg {
+    background-image: url('../img/background.png');
+    background-repeat: repeat-x;
+}
