@@ -34,7 +34,7 @@ const DescricaoEmergencia = (props) => {
                     }
                     <div className="d-flex flex-column align-items-start">
                         <label className="descricao-title m-1">Foto da emergência: </label>
-                        <img src={emergencia.foto_emergencia} alt="Foto da emergência" width={400} />
+                        <img src={emergencia.foto_emergencia} alt="Foto do risco" width={400} />
                     </div>
 
                     <div className="d-flex flex-column align-items-start">
